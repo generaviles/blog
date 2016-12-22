@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Gener Aviles"
-title: "{ Pip.Op }"
+author: "Gener Aviles R"
+title: "{ Gener Aviles }"
 description: "Blog and website of Gener Aviles R, I am a weird mix of a physician and a Data Scientist in the Making. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "medical data science, artificial intelligence in medicine, medical datasphere, jekyll, health data processing"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "The voyage of discovery is not in seeking new landscapes but in having new eyes. -Marcel Proust"
+  - text: "Every truth has four corners: as a teacher I give you one corner, and it is for you to find the other three. -Confusius"
+  - text: "To listen with a silent heart, with a waiting, open soul. Without passion, without desire, without judgment, without rebuke. -Siddartha"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -126,7 +127,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "generaviles@gmail.here"
 
 ################
 # Author Blurb #
