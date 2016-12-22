@@ -33,7 +33,7 @@ author: "Gener Aviles R"
 title: "{ Gener Aviles }"
 description: "Blog and website of Gener Aviles R, I am a weird mix of a physician and a Data Scientist in the Making. Opinions expressed are mine."
 keywords: "medical data science, artificial intelligence in medicine, medical datasphere, jekyll, health data processing"
-favicon: "/img/favicon.ico"
+favicon: "/img/favicon1.ico"
 
 ################
 # Header layout #
@@ -127,7 +127,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "generaviles@gmail.here"
+email: "generaviles@gmail.com"
 
 ################
 # Author Blurb #
