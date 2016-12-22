@@ -29,9 +29,9 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+author: "Gener Aviles"
+title: "{ Pip.Op }"
+description: "Blog and website of Gener Aviles R, I am a weird mix of a physician and a Data Scientist in the Making. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
