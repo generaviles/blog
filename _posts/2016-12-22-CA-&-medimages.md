@@ -6,6 +6,8 @@ category: image processing
 tags: [ 'medical images' ]
 ---
 
+<image src="/img/fractura.jpg">
+
 Cellular Automata (CA) are models that are <a href="https://en.wikipedia.org/wiki/Discrete_mathematics"> discrete </a> in time and space, also known as tessellation automata, homogenous strucures, cellular structures, iterative arrays, etc.
 Mathematically, they can be defined as a 3-tuple where N is a set containing the neighborhood values, S is a set containgin the possible states and <i>delta</i> being the transition function.
 
@@ -28,6 +30,6 @@ With this approximation we were able to obtain preliminary results that reflecte
 
 I will just show you one image of what this CA can produce, on the left you will see an image of an X-Ray of a femur with an oblique fracture, the next image is the binary version of the first. The one on the right hand side is an image produced entirely by the cellular automaton designed by us.
 
-<image src="/img/fractura.jpg">
+
 
 As you can si it was able to find the borders of the structred represented in the original image. Eventhough it is imposible to miss this fracture, the fact that a mathematical model with <i>just</i> two rules can generate this is impresive and talks to the potential for it's use in more advnaced applications.
