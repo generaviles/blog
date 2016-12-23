@@ -33,4 +33,4 @@ I will just show you one image of what this CA can produce, on the left you will
 As you can si it was able to find the borders of the structred represented in the original image. Eventhough it is imposible to miss this fracture, the fact that a mathematical model with <i>just</i> two rules can generate this is impresive and talks to the potential for it's use in more advnaced applications.
 
 So far so good, I will keep experimenting and sharing with you what pops up.
-Till the next one.
+Till the next one!
