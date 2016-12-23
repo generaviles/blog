@@ -20,7 +20,7 @@ In orther for the rules to be understood we have to declare some concepts before
 <ul>A greyscale image can be represented by a matrix of data<i> F={W x M} </i>where<i>F<sub>W,M</sub> belong to the set of numbers <i>{0,1,2,...,255}.</i></i> </ul>
 The following image summarises the rules:
 
-<image src= "../img/carules.jpg" width="600" height="300">
+<image src= ".../img/carules.png" width="600" height="300">
 
 <i>N </i>being a matrix of <i>3x3.</i>
 
@@ -28,6 +28,9 @@ With this approximation we were able to obtain preliminary results that reflecte
 
 I will just show you one image of what this CA can produce, on the left you will see an image of an X-Ray of a femur with an oblique fracture, the next image is the binary version of the first. The one on the right hand side is an image produced entirely by the cellular automaton designed by us.
 
-<image src="/img/fractura.jpg" width="600" height= "160">
+<image src= ".../img/fractura.png" width="600" height= "160">
 
 As you can si it was able to find the borders of the structred represented in the original image. Eventhough it is imposible to miss this fracture, the fact that a mathematical model with <i>just</i> two rules can generate this is impresive and talks to the potential for it's use in more advnaced applications.
+
+So far so good, I will keep experimenting and sharing with you what pops up.
+Till the next one.
