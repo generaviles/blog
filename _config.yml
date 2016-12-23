@@ -164,9 +164,9 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: generaviles
-keybase-in-social: False
-keybase-in-footer: False
+keybase-username: panosakkos
+keybase-in-social: True
+keybase-in-footer: True
 
 ################################################################################
 
