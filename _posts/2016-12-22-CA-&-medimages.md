@@ -17,7 +17,7 @@ It is this last application that caught the attention of a friend of mine and I 
 
 We set out to propose a CA with the least amount of rules possible that still could do a decent job at identifying fractures of long bones. After going over some theory and long hours of discussion, two rules emerged as the winners for this automaton, we decided that our CA was going to work on binary (black & white) images and identify borders in the objects of the image.
 In orther for the rules to be understood we have to declare some concepts before:
-<ul>A greyscale image can be represented by a matrix of data<i> F={W x M} </i>where<i>F<sub>W,M</sub> belong to the set of numbers <i>{0,1,2,...,255}</i></i> </ul>.
+<ul>A greyscale image can be represented by a matrix of data<i> F={W x M} </i>where<i>F<sub>W,M</sub> belong to the set of numbers <i>{0,1,2,...,255}.</i></i> </ul>
 The following image summarises the rules:
 
 <image src= "../img/carules.jpg">
