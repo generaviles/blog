@@ -22,9 +22,12 @@ The following image summarises the rules:
 
 <image src= "../img/carules.jpg">
 
-<ul><i>N </i>being a matrix of <i>3x3</i>.</ul>
+<i>N </i>being a matrix of <i>3x3.</i>
+
 With this approximation we were able to obtain preliminary results that reflected the power of working with a CA showing significant results with simple rules.
 
 I will just show you one image of what this CA can produce, on the left you will see an image of an X-Ray of a femur with an oblique fracture, the next image is the binary version of the first. The one on the right hand side is an image produced entirely by the cellular automaton designed by us.
+
 <image src="/img/fractura.jpg">
+
 As you can si it was able to find the borders of the structred represented in the original image. Eventhough it is imposible to miss this fracture, the fact that a mathematical model with <i>just</i> two rules can generate this is impresive and talks to the potential for it's use in more advnaced applications.
