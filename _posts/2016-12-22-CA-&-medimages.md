@@ -20,7 +20,7 @@ In orther for the rules to be understood we have to declare some concepts before
 <ul>A greyscale image can be represented by a matrix of data<i> F={W x M} </i>where<i>F<sub>W,M</sub> belong to the set of numbers <i>{0,1,2,...,255}.</i></i> </ul>
 The following image summarises the rules:
 
-<image src= "../img/carules.jpg">
+<image src= "/img/carules.jpg">
 
 <ul><i>N </i>being a matrix of <i>3x3</i>.</ul>
 
